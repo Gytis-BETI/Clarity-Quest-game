@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1735842421|12532578178';
+const CACHE_VERSION = '1735891360|54195393';
 /** @type {string} */
 const CACHE_PREFIX = 'Clarity Quest-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
